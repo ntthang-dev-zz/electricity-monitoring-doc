@@ -4,11 +4,11 @@
 
 ## ⭐ Lý thuyết nguồn AC <a id="ac-power-theory"></a>
 
-* [Giới thiệu](ac-power-theory/introduction.md)
+* [🌱 Giới thiệu](ac-power-theory/introduction.md)
 
 ## 🧲 Cảm biến CT <a id="ct-sensors"></a>
 
-* [Giới thiệu](ct-sensors/introduction.md)
+* [🌱 Giới thiệu](ct-sensors/introduction.md)
 
 ## ⚡ Cảm biến điện áp <a id="voltage-sensing"></a>
 
