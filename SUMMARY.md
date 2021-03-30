@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [📒 Mục lục](README.md)
 
 ## ⭐ Lý thuyết nguồn AC <a id="ac-power-theory"></a>
 
